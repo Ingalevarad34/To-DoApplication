@@ -1,4 +1,4 @@
-# To-Do Application
+# UpToDo Application
 
 A high-fidelity, production-ready Android Todo application built with **Jetpack Compose**, **Material 3**, **Firebase Authentication**, and **Firebase Realtime Database**. Designed to mirror the sleek dark-mode aesthetics and workflows of the **UpTodo** design system.
 

@@ -142,6 +142,10 @@ To connect your own Firebase backend:
 
 ---
 
+## UI figma file source link
+
+https://www.figma.com/design/76VB4bAUcskduFZYPn1Qc0/UpTodo---Todo-list-app-UI-Kit--Community-?node-id=2-12421&t=Y8tCJhqYvXsxeOXd-0
+
 ## 🚀 How to Run
 1. Open the project in Android Studio.
 2. Sync with Gradle Files.
